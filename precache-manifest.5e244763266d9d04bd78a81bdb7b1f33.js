@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "adbbd9266fa31ac331308726d180db92",
+    "revision": "05399058c5776addc7ba673b02275132",
     "url": "/Bezel-Joseph/React-demo-Project2.git/index.html"
   },
   {
-    "revision": "11f2a564045d50b90208",
+    "revision": "6fe8445b997efbce1aa1",
     "url": "/Bezel-Joseph/React-demo-Project2.git/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Bezel-Joseph/React-demo-Project2.git/static/js/2.5770265c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "11f2a564045d50b90208",
-    "url": "/Bezel-Joseph/React-demo-Project2.git/static/js/main.3c00c084.chunk.js"
+    "revision": "6fe8445b997efbce1aa1",
+    "url": "/Bezel-Joseph/React-demo-Project2.git/static/js/main.e8ea5b29.chunk.js"
   },
   {
     "revision": "516aed22ae3fc27ec00b",
